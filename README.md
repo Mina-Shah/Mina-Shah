@@ -12,18 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 >
+<h1>
   Hey there, I'm Mina Shah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+<h1/>
+  
+📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)  
+✉️ Email: shahmina814@gmail.com
+ 
 
 ## :woman_technologist: About Me
 
 - 🌱 I am a passionate **Frontend Developer** from **Karachi, Pakistan** 🇵🇰.
 - ✍️ I am diving into Technical Content Writing, sharing insights on frontend development and web technologies.
 - 🎨 I enjoy **art, calligraphy, and reading tech articles** in my free time.
-- 📬 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
@@ -46,6 +48,12 @@ Here are some ideas to get you started:
 
 ---
 
+## 🚀 Pinned Projects
+[🎬 Movie Website](https://movie-website-using-react.netlify.app/)
+
+[🛍️ E-commerce Website](https://mina-ecommerce-website.netlify.app/)
+---
+
 ## :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mina-shah&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -53,12 +61,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-shah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 🚀 Pinned Projects
-[🎬 Movie Website](https://movie-website-using-react.netlify.app/)
-
-[🛍️ E-commerce Website](https://mina-ecommerce-website.netlify.app/)
-
-
-
-
