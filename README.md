@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 <h1>
   Hey there, I'm Mina Shah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1/>
+<h1/> 
   
-📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)  
+## Let's Connect:
+📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
+
 ✉️ Email: shahmina814@gmail.com
- 
 
 ## :woman_technologist: About Me
 
