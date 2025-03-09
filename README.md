@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 <h1>
   Hey there, I'm Mina Shah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
 <h1/> 
   
-## Let's Connect:
-📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
-
-✉️ Email: shahmina814@gmail.com
-
 ## :woman_technologist: About Me
 
 - 🌱 I am a passionate **Frontend Developer** from **Karachi, Pakistan** 🇵🇰.
@@ -64,3 +58,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-shah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## Let's Connect:
+📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
+
+✉️ Email: shahmina814@gmail.com
