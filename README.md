@@ -66,9 +66,9 @@ Hi, I'm **Mina Shah**, a passionate **Frontend Developer** from **Pakistan** �
 ---
 
 ## 🚀 Pinned Projects
-(https://movie-website-using-react.netlify.app/)
+[🎬 Movie Website](https://movie-website-using-react.netlify.app/)
 
-https://mina-ecommerce-website.netlify.app/
+[🛍️ E-commerce Website](https://mina-ecommerce-website.netlify.app/)
 
 
 
