@@ -16,6 +16,9 @@ Here are some ideas to get you started:
   Hey there, I'm Mina Asif
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1/> 
+
+  <img src = "https://github.com/user-attachments/assets/a76bfa45-44bf-437a-8a50-0b58595e58cd " />
+
   
 ## :woman_technologist: About Me
 
