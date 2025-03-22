@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>
-  Hey there, I'm Mina Shah
+  Hey there, I'm Mina Asif
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1/> 
   
