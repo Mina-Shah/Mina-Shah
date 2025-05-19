@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1/> 
 
-  <img src = "https://github.com/user-attachments/assets/a76bfa45-44bf-437a-8a50-0b58595e58cd " />
+<img src = "https://github.com/user-attachments/assets/d4cf65d7-2b18-4db5-b4c6-92d209dfa89b" />
+
 
   
 ## :woman_technologist: About Me
