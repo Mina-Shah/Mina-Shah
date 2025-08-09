@@ -1,4 +1,4 @@
-<!--
+<img width="3168" height="792" alt="Blue and White Modern Professional General Linkedin Banner (7)-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/b380cbd1-c401-4b86-9084-c59485cb4f87" /><!--
 **Mina-Shah/Mina-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1/> 
 
-<img src = "https://github.com/user-attachments/assets/d4cf65d7-2b18-4db5-b4c6-92d209dfa89b" />
+<img src="https://github.com/user-attachments/assets/3ae2938d-675e-4f5d-b2aa-25405e31789e" />
 
 
   
