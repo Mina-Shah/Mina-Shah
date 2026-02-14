@@ -67,20 +67,7 @@
 </ul>
 <p align="center"><b>Key Features:</b> Sales Management | Inventory Tracking | User Authentication | Reporting Dashboard</p>
 </td>
-<td width="50%" valign="top">
-<h4 align="center">✈️ Skyscanner Travel Interface</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-</p>
-<p align="center">🚀 <b>Internship Project | Feb 2025 - Mar 2025</b></p>
-<ul align="left">
-<li>📅 <b>Interactive date selection</b> component development</li>
-<li>📚 <b>Backpack React library</b> integration</li>
-<li>🎭 <b>Professional simulation</b> of real-world development</li>
-<li>💡 <b>Modern React patterns</b> and automated testing</li>
-</ul>
-<p align="center"><b>Skills Gained:</b> Component Architecture | Library Integration | Professional Workflow | Code Quality</p>
-</td>
+
 </tr>
 </table>
 
