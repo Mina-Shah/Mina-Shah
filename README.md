@@ -4,7 +4,7 @@
 
 &nbsp;
 
-### 🚀 About Me
+<h2 align="center" >🚀 About Me</h2>
 
 * 🎨 **UI/UX Designer & Frontend Developer** dedicated to building intuitive, user-centered digital experiences.
 * 🎓 **BS Entrepreneurship Student** at Iqra University (GPA: 3.5/4.00).
@@ -90,30 +90,66 @@
 <p align="center">Building expertise through continuous learning</p>
 
 <table align="center">
-<tr>
-<td width="33.33%" valign="top" align="center">
-<h4>🧠 Problem-Solving Mindset</h4>
-<p>"Every design choice is a bridge between a user's need and a functional solution. I view every bug as an opportunity to optimize and every mockup as a chance to innovate."</p>
-</td>
-<td width="33.33%" valign="top">
-<h4 align="center">🏏 Life Beyond Code</h4>
-<ul align="left">
-<li><b>UI/UX Design Enthusiast</b> 🎨 — Finding beauty in simple interfaces</li>
-<li><b>Traveling & Nature</b> 🏔️ — Gaining perspective through environments</li>
-<li><b>Sports & Fitness</b> 🎾 — Strategy and teamwork</li>
-<li><b>Reading & Writing</b> 📝 — Constant learning</li>
-</ul>
-</td>
-<td width="33.33%" valign="top">
-<h4 align="center">🌱 Growth Philosophy</h4>
-<ul align="left">
-<li><b>Continuous Learning</b> — Technology never stops evolving</li>
-<li><b>Community Contribution</b> — Sharing knowledge</li>
-<li><b>Quality Focus</b> — Writing clean, efficient code</li>
-<li><b>Soft Skills</b> — Building both technical and soft skills</li>
-</ul>
-</td>
-</tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h4 align="center">🎖️ Web Certifications</h4>
+      <ul align="left">
+        <li><b>Hands on ReactJS from Beginner to Expert</b></li>
+        <li><b>Foundations of Web Development</b></li>
+        <li><b>HTML and CSS for Beginners</b></li>
+        <li><b>Complete MS Office & Web Design Course</b></li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4 align="center">🎯 Academic Excellence</h4>
+      <ul align="left">
+        <li><b>BS Entrepreneurship</b> - Iqra University</li>
+        <li><b>GPA: 3.50/4.00</b> - Consistent Performance</li>
+        <li><b>Virtual Internship</b> - Skyscanner (Forage)</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4 align="center">🚀 Professional Experience</h4>
+      <ul align="left">
+        <li><b>Skyscanner Internship</b> - Frontend Dev</li>
+        <li><b>UI/UX Design</b> - Figma Prototyping</li>
+        <li><b>Frontend Development</b> - React & Tailwind</li>
+        <li><b>E-commerce Deployment</b> - Firebase Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">💡 Professional Philosophy & Interests</h2>
+<p align="center">Beyond the technical skills - what drives me</p>
+
+<table align="center">
+  <tr>
+    <td width="33.33%" valign="top" align="center">
+      <h4>🧠 Problem-Solving Mindset</h4>
+      <p>"Every design choice is a bridge between a user's need and a functional solution. I view every bug as an opportunity to optimize."</p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4 align="center">🎨 Life Beyond Code</h4>
+      <ul align="left">
+        <li><b>UI/UX Enthusiast</b> 🎨 — Clean interfaces</li>
+        <li><b>Traveling & Nature</b> 🏔️ — Gaining perspective</li>
+        <li><b>Sports & Fitness</b> 🎾 — Strategy & teamwork</li>
+        <li><b>Reading & Writing</b> 📝 — Constant learning</li>
+      </ul>
+    </td>
+    <td width="33.33%" valign="top">
+      <h4 align="center">🌱 Growth Philosophy</h4>
+      <ul align="left">
+        <li><b>Continuous Learning</b> — Tech evolution</li>
+        <li><b>Community</b> — Sharing knowledge</li>
+        <li><b>Quality Focus</b> — Clean code</li>
+        <li><b>Soft Skills</b> — Building empathy</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
