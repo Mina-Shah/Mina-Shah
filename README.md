@@ -1,56 +1,126 @@
-
-<h1>
-  Hey there, I'm Mina Asif
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1/> 
-
-<img src="https://github.com/user-attachments/assets/3ae2938d-675e-4f5d-b2aa-25405e31789e" />
-
-
-  
-## :woman_technologist: About Me
-
-- 🌱 I am a passionate **Frontend Developer** from **Karachi, Pakistan** 🇵🇰.
-- ✍️ I am diving into Technical Content Writing, sharing insights on frontend development and web technologies.
-- 🎨 I enjoy **art, calligraphy, and reading tech articles** in my free time.
-
----
-
-## :hammer_and_wrench: Languages and Tools
-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="React Router" alt="React Router" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" alt="Netlify" width="60" height="60"/>&nbsp;
+
+<h2 align="center">Hey there, I'm Mina Asif! 👋</h2>
+
+&nbsp;
+
+### 🚀 About Me
+
+* 🎨 **UI/UX Designer & Frontend Developer** dedicated to building intuitive, user-centered digital experiences.
+* 🎓 **BS Entrepreneurship Student** at Iqra University (GPA: 3.5/4.00).
+* 🛠️ **Technical Specialist** in translating high-fidelity **Figma** prototypes into clean **React** and **Tailwind CSS** code.
+* 🚀 Recently completed **Front-End Software Engineering Virtual Internship** at **Skyscanner** via Forage.
+* 🌐 **Full-Stack Enthusiast** leveraging **Node.js**, **Firebase**, and **AWS** to bridge the gap between creative design and functional performance.
+* ⚡ **Fun fact:** I love blending creative vision with technical precision—it's like solving a puzzle where the pieces are pixels and code!
+* 🎯 **Goal:** To create seamless digital interfaces that ensure optimal performance and functional excellence.
+
+---
+
+<h2 align="center">🛠️ Technology Arsenal</h2>
+<p align="center">Building robust solutions with a modern tech stack</p>
+
+#### 🎨 Design & Frontend Mastery
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### 🗄️ Database & Cloud Infrastructure
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+#### 🔧 Development Tools & Productivity
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+<p align="center">Showcasing real-world solutions and innovations</p>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h4 align="center">🛍️ ShoePoint.pk - E-commerce Platform</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+<p align="center">🎯 <b>Deployment Project | Feb 2025</b></p>
+<ul align="left">
+<li>🛒 <b>Ecommerce Website</b> using React and Tailwind CSS</li>
+<li>🔐 <b>Integrated Firebase</b> for dynamic database management</li>
+<li>📱 <b>Mobile-first approach</b> with dynamic filtering and sorting</li>
+<li>🎨 <b>Modern UI/UX</b> for a seamless shopping cart experience</li>
+</ul>
+<p align="center"><b>Key Features:</b> Sales Management | Inventory Tracking | User Authentication | Reporting Dashboard</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center">✈️ Skyscanner Travel Interface</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+<p align="center">🚀 <b>Internship Project | Feb 2025 - Mar 2025</b></p>
+<ul align="left">
+<li>📅 <b>Interactive date selection</b> component development</li>
+<li>📚 <b>Backpack React library</b> integration</li>
+<li>🎭 <b>Professional simulation</b> of real-world development</li>
+<li>💡 <b>Modern React patterns</b> and automated testing</li>
+</ul>
+<p align="center"><b>Skills Gained:</b> Component Architecture | Library Integration | Professional Workflow | Code Quality</p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🎓 Professional Certifications & Achievements</h2>
+<p align="center">Building expertise through continuous learning</p>
+
+<table align="center">
+<tr>
+<td width="33.33%" valign="top" align="center">
+<h4>🧠 Problem-Solving Mindset</h4>
+<p>"Every design choice is a bridge between a user's need and a functional solution. I view every bug as an opportunity to optimize and every mockup as a chance to innovate."</p>
+</td>
+<td width="33.33%" valign="top">
+<h4 align="center">🏏 Life Beyond Code</h4>
+<ul align="left">
+<li><b>UI/UX Design Enthusiast</b> 🎨 — Finding beauty in simple interfaces</li>
+<li><b>Traveling & Nature</b> 🏔️ — Gaining perspective through environments</li>
+<li><b>Sports & Fitness</b> 🎾 — Strategy and teamwork</li>
+<li><b>Reading & Writing</b> 📝 — Constant learning</li>
+</ul>
+</td>
+<td width="33.33%" valign="top">
+<h4 align="center">🌱 Growth Philosophy</h4>
+<ul align="left">
+<li><b>Continuous Learning</b> — Technology never stops evolving</li>
+<li><b>Community Contribution</b> — Sharing knowledge</li>
+<li><b>Quality Focus</b> — Writing clean, efficient code</li>
+<li><b>Soft Skills</b> — Building both technical and soft skills</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+<p align="center">Open to opportunities, mentorship, and exciting projects</p>
+
+<p align="center">
+  <a href="mailto:shahmina814@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/minaasif/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mina-my-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://github.com/minaasif"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  🎯 <b>Open to:</b> UI/UX Design Roles | Frontend Developer Positions | Freelance Projects | Open Source Contributions | Mentorship Opportunities
+</p>
+
+<p align="center">
+  <b>"Building digital bridges between creativity and code! Innovation through dedication."</b> ✨
+</p>
+
+<p align="center">
+  💝 Crafted with passion by <b>Mina Asif</b> | 🚀 UI/UX Designer & Frontend Dev ready to make an impact!
+</p>
+
 </div>
-
----
-
-## 🚀 Pinned Projects
-[🎬 Movie Website](https://movie-website-using-react.netlify.app/)
-
-[🛍️ E-commerce Website](https://mina-ecommerce-website.netlify.app/)
-
----
-
-## :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mina-shah&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-shah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Let's Connect:
-📬 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-MinaShah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
-
-✉️ Email: shahmina814@gmail.com
