@@ -1,9 +1,6 @@
 <div>
 
 <h2 align="center">Hey there, I'm Mina Asif! 👋</h2>
-  <img src="banner.png"/> 
-
-&nbsp;
 
 <h2 align="center" >🚀 About Me</h2>
 
