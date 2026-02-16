@@ -1,6 +1,7 @@
 <div>
 
 <h2 align="center">Hey there, I'm Mina Asif! 👋</h2>
+  <img src="https://github.com/user-attachments/assets/56316351-0202-4fa9-94f1-65ee26573b85"/> 
 
 &nbsp;
 
